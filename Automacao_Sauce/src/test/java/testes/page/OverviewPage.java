@@ -29,6 +29,7 @@ public class OverviewPage extends BasePage {
     @FindBy(xpath = "//*[@id=\"finish\"]")
     private WebElement botaoFinish;
 
+
     @Step("Validar Titulo da Pagina Overview")
     public OverviewPage validarTituloPaginaOverview() throws Exception {
         aguardarCarregamentoElemento(tituloPaginaOverview);

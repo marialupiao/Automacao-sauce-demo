@@ -5,7 +5,7 @@ import static br.sefaz.com.core.Propriedades.Browsers.CHROME;
 
 public class Propriedades {
 
-	public static boolean FECHAR_BROWSER = false;
+	public static boolean FECHAR_BROWSER = true;
 	public static Browsers BROWSER = CHROME;
 
 	public static boolean HEADLESS_MODE = false; // Altere para true se quiser iniciar em modo headless

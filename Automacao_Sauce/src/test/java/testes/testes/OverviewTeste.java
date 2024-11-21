@@ -9,6 +9,5 @@ public class OverviewTeste {
     @E("testo os componentes da Pagina Overview")
     public void testoOsComponentesDaPaginaOverview() throws Exception {
         OverviewFunc.verOverview();
-        //throw new io.cucumber.java.PendingException();
     }
 }

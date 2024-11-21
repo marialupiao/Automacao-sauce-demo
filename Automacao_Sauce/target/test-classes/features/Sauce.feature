@@ -12,5 +12,6 @@ Funcionalidade: Login na pagina Sauce
     E testo todos componentes da pagina cart
     E testo os componentes da pagina de checkout
     E testo os componentes da Pagina Overview
+    E testo os componentes da pagina Complete
     Entao Finaliza o sistema
 
