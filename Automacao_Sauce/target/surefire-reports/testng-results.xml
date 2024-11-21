@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[PASSO] Insere o login no sistema]]>
+    </line>
+    <line>
+      <![CDATA[[PASSO] Insere a senha no sistema]]>
+    </line>
+    <line>
+      <![CDATA[Evidência gerada em: C:\Automacao_Sauce\src/test/evidencias/PDF\Logar com sucesso\Logar com sucesso.pdf]]>
+    </line>
+    <line>
+      <![CDATA[[PASSO] ]]>
+    </line>
+    <line>
+      <![CDATA[PASSED - Logar com sucesso]]>
+    </line>
+    <line>
+      <![CDATA[===============================================]]>
+    </line>
+    <line>
+      <![CDATA[Finalizando o DRIVER...]]>
+    </line>
+    <line>
+      <![CDATA[===============================================]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-21T16:52:53 BRT" name="Testes Sefaz" finished-at="2024-10-21T16:53:04 BRT" duration-ms="10974">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:br.sefaz.com.executa.ExecutaLoginIT@35aea049]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-10-21T16:52:53 BRT" name="Testes SEFAZ" finished-at="2024-10-21T16:53:04 BRT" duration-ms="10974">
+      <class name="br.sefaz.com.executa.ExecutaLoginIT">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:br.sefaz.com.executa.ExecutaLoginIT@35aea049]" started-at="2024-10-21T16:52:53 BRT" name="setUpClass" test-instance-name="" finished-at="2024-10-21T16:52:54 BRT" duration-ms="788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@61808ecd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:br.sefaz.com.executa.ExecutaLoginIT@35aea049]" started-at="2024-10-21T16:52:54 BRT" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" test-instance-name="" finished-at="2024-10-21T16:53:04 BRT" duration-ms="10092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Logar com sucesso"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login na pagina Sauce"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[[PASSO] Insere o login no sistema]]>
+            </line>
+            <line>
+              <![CDATA[[PASSO] Insere a senha no sistema]]>
+            </line>
+            <line>
+              <![CDATA[Evidência gerada em: C:\Automacao_Sauce\src/test/evidencias/PDF\Logar com sucesso\Logar com sucesso.pdf]]>
+            </line>
+            <line>
+              <![CDATA[[PASSO] ]]>
+            </line>
+            <line>
+              <![CDATA[PASSED - Logar com sucesso]]>
+            </line>
+            <line>
+              <![CDATA[===============================================]]>
+            </line>
+            <line>
+              <![CDATA[Finalizando o DRIVER...]]>
+            </line>
+            <line>
+              <![CDATA[===============================================]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="beforeMethod([Ljava.lang.Object;)[pri:0, instance:br.sefaz.com.executa.ExecutaLoginIT@35aea049]" started-at="2024-10-21T16:52:54 BRT" name="beforeMethod" test-instance-name="" finished-at="2024-10-21T16:52:54 BRT" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@7f1f60a0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:br.sefaz.com.executa.ExecutaLoginIT@35aea049]" started-at="2024-10-21T16:53:04 BRT" name="tearDownClass" test-instance-name="" finished-at="2024-10-21T16:53:04 BRT" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method is-config="true" signature="mataProcesso()[pri:0, instance:br.sefaz.com.executa.ExecutaLoginIT@35aea049]" started-at="2024-10-21T16:53:04 BRT" name="mataProcesso" test-instance-name="" finished-at="2024-10-21T16:53:04 BRT" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mataProcesso -->
+      </class> <!-- br.sefaz.com.executa.ExecutaLoginIT -->
+    </test> <!-- Testes SEFAZ -->
+  </suite> <!-- Testes Sefaz -->
+</testng-results>

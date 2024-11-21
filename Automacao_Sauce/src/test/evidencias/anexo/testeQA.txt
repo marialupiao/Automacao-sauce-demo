@@ -1,0 +1,19 @@
+import br.sefaz.com.core.base.CondicoesEspera;
+import br.sefaz.com.core.error.NextError;
+import br.sefaz.com.evidencias.evidence.OperadorEvidencia;
+import br.sefaz.com.exception.NextException;
+import org.openqa.selenium.*;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
+import org.testng.Reporter;
+
+import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.time.Duration;
+import java.time.LocalDateTime;
+import java.util.*;
+

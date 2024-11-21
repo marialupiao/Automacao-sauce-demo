@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Binary/Chrome" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Binary/MozillaFirefox" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/driver/chromedriver.exe" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/evidencias/massa/login.json" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/br/sefaz/com/constantes/alertas/Alertas.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/br/sefaz/com/core/BasePage.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/br/sefaz/com/tools/Utilitarios.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testes/funcionalidade/LoginFunc.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/testes/testes/Hooks/Hooks.java" charset="windows-1252" />
+  </component>
+</project>

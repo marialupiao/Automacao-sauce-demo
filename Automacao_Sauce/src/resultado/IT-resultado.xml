@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testes Sefaz">
+
+    <test verbose="2" name="Testes SEFAZ">
+        <classes>
+
+            <!--******************************* LOGIN ***************************************-->
+            <class name="br.sefaz.com.executa.ExecutaLoginIT"/>
+
+            <!--**************************** TODOS OS CENÁRIOS *********************************
+            <class name="br.sefaz.com.executa.ExecutarIT"/>-->
+
+        </classes>
+    </test>
+</suite>
